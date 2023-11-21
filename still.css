@@ -2,6 +2,8 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-image: url(Gambar-1.jpg);
+    background-size: cover;
 }
 
 header {
@@ -31,8 +33,11 @@ nav a {
 
 section {
     padding: 20px;
+    background-color: #ffffff63;
 }
-
+.home {
+    text-align: center;
+}
 footer {
     background-color: #333;
     color: #fff;
